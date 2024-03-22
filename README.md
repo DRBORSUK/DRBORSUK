@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @DRBORSUK
+- 👀 I’m interested in ...eletrick guitar
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... im like Neo from matrix
+- 
+
+<!---
+DRBORSUK/DRBORSUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
